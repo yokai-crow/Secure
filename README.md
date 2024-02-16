@@ -1,6 +1,10 @@
 # Secure
 The Box Version 2: Secure Media Management System
 
+<div align="center">
+  <img src="./publicAssets/tab.png" alt="Example Image" width="400" height="400" />
+</div>
+
 # User Guide for SecureApp
 
 ## Introduction
@@ -36,9 +40,7 @@ For further assistance or inquiries, please contact our support team at <a href=
 
 Thank you for choosing Secure App! We hope you enjoy using our application.
 
-<div align="center">
-  <img src="./publicAssets/tab.png" alt="Example Image" width="400" height="400" />
-</div>
+
 
 
 
