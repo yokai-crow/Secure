@@ -13,7 +13,7 @@ Welcome to Secure App!, this application is the upgraded version of the box: sec
 4. [Support](#support)
 
 ## Installation <a name="installation"></a>
-1. **Download the Application:** Start by downloading the application from [download link].
+1. **Download the Application:** Start by downloading the application from <a href="https://github.com/yokai-crow/Secure.git">here</a>.
 2. **Extract the Files:** Extract the downloaded files to a directory on your local machine.
 3. **Set Up Database:** Find an SQL database called secureapp.sql and import it into your SQL database or create a database of the same schema if required, you can also create a database and change queries in PHP files in your own ways.
 4. **Configure Environment:** If necessary, configure any environment variables.
@@ -29,11 +29,13 @@ Welcome to Secure App!, this application is the upgraded version of the box: sec
 ## Troubleshooting <a name="troubleshooting"></a>
 - **Issues Logging In:** If you encounter issues logging in, double-check your username and password. If the problem persists, contact support.
 - **Error Messages:** If you encounter any error messages while using the application, refer to the documentation or contact support for assistance.
-- **Technical Support:** For technical assistance or troubleshooting, please contact our support team at <a href="https://www.facebook.com/nuranofficial02">Lamniscate Inc.</a>.
+- **Technical Support:** For technical assistance or troubleshooting, please contact our support team at <a href="https://www.facebook.com/nuranofficial02">Lamniscate Inc.</a>
 
 ## Support <a name="support"></a>
 For further assistance or inquiries, please contact our support team at <a href="https://www.linkedin.com/in/arun-saru/">Linked In</a> or visit our website at arunsaru.me.
 
 Thank you for choosing Secure App! We hope you enjoy using our application.
-<img src="./publicAsset/pp.png">
+
+![Secure Application](./publicAsset/tab.png)
+
 
